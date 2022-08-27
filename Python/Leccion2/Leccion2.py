@@ -49,7 +49,8 @@ else:
     print("Has ingresado un numero fuera del rango")
 
 print(f"El numero ingresado es {numTexto}")
-"""
+
 #Operador Ternario
 condicion = False
 print('Condicion verdadera') if condicion else print("Condicion falsa")
+"""
