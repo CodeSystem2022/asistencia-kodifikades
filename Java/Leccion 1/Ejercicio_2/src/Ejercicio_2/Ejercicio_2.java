@@ -1,4 +1,4 @@
-/* Realizar un programa que calcule el salario de un empleado a partir de las horas
+/* Realize un programa que calcule el salario de un empleado a partir de las horas
 trabajadas y la paga por horas. */
 package Ejercicio_2;
 
