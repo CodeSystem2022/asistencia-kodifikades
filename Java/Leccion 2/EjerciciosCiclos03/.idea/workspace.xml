@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7852bbf0-ea1c-4ea3-be1e-48eb58f92f3a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../EjercicioCiclos04/src/EjercicioCiclos04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjerciciosCiclos02/build/classes/Ciclos_02/Ejercicio_02.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EjerciciosCiclos02/build/classes/Ciclos_02/Ejercicio_02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjerciciosCiclos02/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EjerciciosCiclos02/nbproject/private/private.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="showPreview" value="true" />
+  </component>
+  <component name="ProjectId" id="2EYErjRMpA3pGgd9ULhHcUpXWbv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Juan Cruz Reche/TecnicaturaGit/Java/Leccion 2/EjerciciosCiclos03"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="EjerciciosCiclos03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejerciciosciclos03.EjerciciosCiclos03" />
+      <module name="EjerciciosCiclos03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejerciciosciclos03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EjerciciosCiclos03" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7852bbf0-ea1c-4ea3-be1e-48eb58f92f3a" name="Changes" comment="" />
+      <created>1662764317696</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662764317696</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
