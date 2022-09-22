@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 /* Realize un programa que calcule el salario de un empleado a partir de las horas
+=======
+/* Realizar un programa que calcule el salario de un empleado a partir de las horas
+>>>>>>> python
 trabajadas y la paga por horas. */
 package Ejercicio_2;
 

@@ -4,19 +4,36 @@
     // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+<<<<<<< HEAD
   
+=======
+>>>>>>> python
         {
             "type": "java",
             "name": "Launch Java Program",
             "request": "launch",
+<<<<<<< HEAD
            
         },
+=======
+            "mainClass": ""
+        },
+    {
+        "type": "java",
+        "name": "Launch Java Program",
+        "request": "launch",
+        "mainClass": ""
+    },
+>>>>>>> python
         {
             "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
+<<<<<<< HEAD
             "javaExec": ""
+=======
+>>>>>>> python
         }
     ]
 }
