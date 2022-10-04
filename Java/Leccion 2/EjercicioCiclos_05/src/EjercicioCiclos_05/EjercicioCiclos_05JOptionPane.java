@@ -19,13 +19,13 @@ public class EjercicioCiclos_05JOptionPane {
             num = Integer.parseInt(JOptionPane.showInputDialog("Ingrese un numero entre 0 y 100 "));
             contador++;
             if (num > aleatorio) {
-                JOptionPane.showInternalMessageDialog(null, "El numero que usted ingreso es mayor al numero misterioso");
+                JOptionPane.showMessageDialog(null, "El numero que usted ingreso es mayor al numero misterioso");
                 contador++;
             } else if (num < aleatorio) {
-                JOptionPane.showInternalMessageDialog(null, "El numero que usted ingreso es menor al numero misterioso");
+                JOptionPane.showMessageDialog(null, "El numero que usted ingreso es menor al numero misterioso");
                 contador++;
             } else {
-                JOptionPane.showInternalMessageDialog(null, "Felicidades!!!! Usted ha adivinado el numero ");
+                JOptionPane.showMessageDialog(null, "Felicidades!!!! Usted ha adivinado el numero ");
                 contador++;
             }
         } while (num != aleatorio);
