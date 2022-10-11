@@ -1,4 +1,5 @@
 .env
+<<<<<<< HEAD
 /Java/Leccion 2/nbproject/private/
 /Java/Leccion 2/Ciclo While/nbproject/private/
 /Java/Leccion 2/Ciclo While/build/
@@ -17,3 +18,11 @@
 /Java/Leccion 1/Ejercicio_8/build/
 /Java/Leccion 1/Ejercicio_9/nbproject/private/
 /Java/Leccion 1/JavaApplication21/nbproject/private/
+=======
+/Java/Leccion 2/EjercicioCiclos_03/build/
+/Java/Leccion 2/EjercicioCiclos_03/nbproject/private/
+/Java/Leccion 2/EjercicioCiclos_04/nbproject/private/
+/Java/Leccion 2/EjercicioCiclos_04/build/
+/Java/Leccion 2/EjercicioCiclos_05/nbproject/private/
+/Java/Leccion 2/EjercicioCiclos_05/build/
+>>>>>>> java
