@@ -11,5 +11,6 @@ public class PruebaAritmetica {
     int resultado = aritmetica1.sumarConRetorno();
         System.out.println("resultado = " + resultado);
     }
+    
    
 }
