@@ -1,9 +1,9 @@
 # Asistencia - Grupo Kodifikades
 
 ## :star: Integrantes:
-- Miguel Angel Bru Melis :white_check_mark:<br>
-- Eduardo Bru :white_check_mark:<br>
-- Lucas Ruiz :white_check_mark:<br>
-- Cristian N. Ortiz :white_check_mark:<br>
+- :white_check_mark: Miguel Angel Bru Melis <br>
+- :white_check_mark: Eduardo Bru <br>
+- :white_check_mark: Lucas Ruiz <br>
+- :white_check_mark: Cristian N. Ortiz <br>
 - Juan Cruz Reche<br>
 - Natalia Villareal<br>
